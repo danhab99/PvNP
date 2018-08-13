@@ -1,0 +1,31 @@
+{
+	"name": "pvnp",
+	"version": "1.0.0",
+	"description": "An express middleware meant to detect if P v NP has been solved",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/danhab99/PvNP.git"
+	},
+	"keywords": [
+		"pvpn",
+		"millennium",
+		"problem",
+		"cyber",
+		"security",
+		"panic"
+	],
+	"author": "danhab99",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/danhab99/PvNP/issues"
+	},
+	"homepage": "https://github.com/danhab99/PvNP#readme",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.2",
+		"request-promise": "^4.2.2"
+	}
+}
