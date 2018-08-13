@@ -1,4 +1,10 @@
 # PvNP
+
+![](https://img.shields.io/github/issues/danhab99/PvNP.svg)
+![](https://img.shields.io/github/forks/danhab99/PvNP.svg)
+![](https://img.shields.io/github/stars/danhab99/PvNP.svg)
+![](https://img.shields.io/github/license/danhab99/PvNP.svg)
+
 An express middleware meant to detect if P v NP has been solved. I made it in joking fear of the inevitable solving of the Millennium Prize Problem [P vs NP](https://www.claymath.org/millennium-problems/p-vs-np-problem). Many fear that the solution to P v NP will bring the end to modern cryptography so you can use this to shutdown your server to secure vital information.
 
 ## Installation
